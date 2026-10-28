@@ -18,7 +18,7 @@ This project visualizes global carbon dioxide ($CO_2$) emissions and per capita 
 - **Interactive Region Filter:** Allows filtering by specific geographic regions to evaluate localized trends.
 
  📷 Dashboard Preview
-![Tableau Dashboard Preview](dashboard_preview.png)
+![Tableau Dashboard Preview](Screenshot 2026-10-23 183324.png)
 
 
 
